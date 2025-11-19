@@ -37,6 +37,15 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    # default django apps...
+    'guidance',
+    'chatbot',
+    'health',
+    'panic',
+    'hospital',
+    'newborn',
+    'forum',
+    'schemes',
 ]
 
 MIDDLEWARE = [
